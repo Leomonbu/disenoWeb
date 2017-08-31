@@ -1,2 +1,2 @@
 # disenoWeb
-Contiene el desarrollo del proyecto de la materia
+Contiene todo el código que se desarrollará en esta materia.
